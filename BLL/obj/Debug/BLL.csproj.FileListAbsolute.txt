@@ -1,0 +1,5 @@
+c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\BLL\bin\Debug\BLL.dll
+c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\BLL\bin\Debug\BLL.pdb
+c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\BLL\obj\Debug\BLL.dll
+c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\BLL\obj\Debug\BLL.pdb
