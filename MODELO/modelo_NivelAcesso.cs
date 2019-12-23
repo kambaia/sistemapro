@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MODELO
 {
-    class modelo_NivelAcesso
+   public class modelo_NivelAcesso
     {
         private int idNivelAcesso;
         private string nivel_user;

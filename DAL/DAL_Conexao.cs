@@ -26,11 +26,11 @@ namespace DAL
                 try
                 {
                     con.Open();
-                    this.mensagem = "Sucesso";
+                    this.mensagem = "Conexão feita com Sucesso";
                 }
                 catch
                 {
-                    this.mensagem = "Erro";
+                    this.mensagem = "Erro na Conexão";
                 }
                 
             }

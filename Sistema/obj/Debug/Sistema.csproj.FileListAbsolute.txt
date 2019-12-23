@@ -1,56 +1,3 @@
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\bin\Debug\Sistema.exe.config
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\bin\Debug\Sistema.exe
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\bin\Debug\Sistema.pdb
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\bin\Debug\MetroFramework.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\bin\Debug\MetroFramework.Fonts.dll
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.csprojResolveAssemblyReference.cache
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.Form1.resources
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.Properties.Resources.resources
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.csproj.GenerateResource.Cache
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.exe
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.pdb
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.AreaPedagogica.resources
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.Tesouraria.resources
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.TelaPrincipal.resources
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frmIncricao.resources
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_PagPropinas.resources
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_Documentos.resources
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_AP_Classes.resources
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_AP_Disciplinas.resources
-c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_AP_Notas.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_AP_Professores.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_Visu_Inscricao.resources
-<<<<<<< HEAD
-C:\Users\Emanu\3D Objects\sistemapro\Sistema\bin\Debug\Sistema.exe.config
-C:\Users\Emanu\3D Objects\sistemapro\Sistema\obj\Debug\Sistema.exe
-C:\Users\Emanu\3D Objects\sistemapro\Sistema\obj\Debug\Sistema.pdb
-=======
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\Sistema.exe.config
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.exe
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.pdb
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\Sistema.exe
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\Sistema.pdb
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\MetroFramework.dll
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\MetroFramework.Fonts.dll
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.csprojResolveAssemblyReference.cache
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.AreaPedagogica.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.Form1.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frmIncricao.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_AP_Classes.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_AP_Disciplinas.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_AP_Notas.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_AP_Professores.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_Documentos.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_PagPropinas.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_Visu_Inscricao.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.Properties.Resources.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.TelaPrincipal.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.Tesouraria.resources
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.csproj.GenerateResource.Cache
->>>>>>> b18b3ff715f5be7cd8ae990270f5a8faed33b13d
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\DAL.dll
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\MySql.Data.dll
-C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\DAL.pdb
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\bin\Debug\Sistema.exe.config
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\obj\Debug\Sistema.exe
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\obj\Debug\Sistema.pdb
@@ -59,7 +6,9 @@ C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\bin\Deb
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\bin\Debug\DAL.dll
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\bin\Debug\MetroFramework.dll
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\bin\Debug\MODELO.dll
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\bin\Debug\DAL.pdb
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\bin\Debug\MODELO.pdb
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\obj\Debug\Sistema.csprojResolveAssemblyReference.cache
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\obj\Debug\Sistema.AreaPedagogica.resources
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\obj\Debug\Sistema.Form1.resources
@@ -75,5 +24,3 @@ C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\obj\Deb
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\obj\Debug\Sistema.TelaPrincipal.resources
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\obj\Debug\Sistema.Tesouraria.resources
 C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\obj\Debug\Sistema.csproj.GenerateResource.Cache
-C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\bin\Debug\MODELO.dll
-C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\Sistema\bin\Debug\MODELO.pdb
