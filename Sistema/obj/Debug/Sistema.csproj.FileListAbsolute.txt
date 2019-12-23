@@ -20,6 +20,31 @@ c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug
 c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_AP_Notas.resources
 C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_AP_Professores.resources
 C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_Visu_Inscricao.resources
+<<<<<<< HEAD
 C:\Users\Emanu\3D Objects\sistemapro\Sistema\bin\Debug\Sistema.exe.config
 C:\Users\Emanu\3D Objects\sistemapro\Sistema\obj\Debug\Sistema.exe
 C:\Users\Emanu\3D Objects\sistemapro\Sistema\obj\Debug\Sistema.pdb
+=======
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.exe
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\Sistema.exe
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\Sistema.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\MetroFramework.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.csprojResolveAssemblyReference.cache
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.AreaPedagogica.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.Form1.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frmIncricao.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_AP_Classes.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_AP_Disciplinas.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_AP_Notas.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_AP_Professores.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_Documentos.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_PagPropinas.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.frm_Visu_Inscricao.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.TelaPrincipal.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.Tesouraria.resources
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.csproj.GenerateResource.Cache
+>>>>>>> b18b3ff715f5be7cd8ae990270f5a8faed33b13d
