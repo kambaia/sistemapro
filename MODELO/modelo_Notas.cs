@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Modelo
+namespace MODELO
 {
-    class modelo_Notas
+  public  class modelo_Notas
     {
     }
 }

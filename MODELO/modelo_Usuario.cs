@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Modelo
+namespace MODELO
 {
-    class modelo_Usuario:modelo_Pessoa
+    public class modelo_Usuario:modelo_Pessoa 
     {
         private int id_usuario;
         private string username;

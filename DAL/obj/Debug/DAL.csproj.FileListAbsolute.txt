@@ -8,3 +8,13 @@ C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\bin\Debug\
 C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\obj\Debug\DAL.dll
 C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\obj\Debug\DAL.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\bin\Debug\MODELO.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\bin\Debug\MySql.Data.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\bin\Debug\MODELO.pdb
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\DAL\bin\Debug\DAL.dll
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\DAL\bin\Debug\DAL.pdb
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\DAL\bin\Debug\MODELO.dll
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\DAL\bin\Debug\MODELO.pdb
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\DAL\obj\Debug\DAL.dll
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\DAL\obj\Debug\DAL.pdb
+C:\Users\ka.pco\Documents\Visual Studio 2015\Projects\sistemapro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

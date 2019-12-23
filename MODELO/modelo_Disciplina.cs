@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Modelo
+namespace MODELO
 {
-    class modelo_Disciplina
+  public class modelo_Disciplina
     {
         private int idDisciplina;
         private string disciplina;

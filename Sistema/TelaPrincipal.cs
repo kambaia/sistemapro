@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace Sistema
 {
     public partial class TelaPrincipal : Form
@@ -15,6 +16,13 @@ namespace Sistema
         public TelaPrincipal()
         {
             InitializeComponent();
+        }
+
+        private void TelaPrincipal_Load(object sender, EventArgs e)
+        {
+         
+            
+           
         }
     }
 }

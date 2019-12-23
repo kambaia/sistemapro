@@ -40,16 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="modelo_Aluno.cs" />
-    <Compile Include="modelo_Curso.cs" />
     <Compile Include="modelo_Disciplina.cs" />
     <Compile Include="modelo_NivelAcesso.cs" />
     <Compile Include="modelo_Notas.cs" />
     <Compile Include="modelo_Pagamento.cs" />
     <Compile Include="modelo_Pessoa.cs" />
     <Compile Include="modelo_Professor.cs" />
-    <Compile Include="modelo_Usuario.cs" />
+    <Compile Include="Modelo_Usuario.cs" />
     <Compile Include="nodelo_Avaliacao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

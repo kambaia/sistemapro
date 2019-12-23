@@ -7,11 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DAL;
 
 namespace Sistema
 {
     public partial class Form1 : MetroFramework.Forms.MetroForm
     {
+
+
         public Form1()
         {
             InitializeComponent();
@@ -48,6 +51,22 @@ namespace Sistema
         private void btn_menuPrincipal_Click(object sender, EventArgs e)
         {
             openChildForm(new TelaPrincipal());
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            DAL_Conexao conexao = new DAL_Conexao();
+            conexao.conectar();
+            if(conexao.mensagem == "Sucesso")
+            {
+                conexao.conectar();
+                MessageBox.Show(conexao.mensagem);
+            }else if(conexao.mensagem == "Erro")
+            {
+                conexao.Desconectar();
+                MessageBox.Show(conexao.mensagem);
+            }
+            
         }
     }
 }
