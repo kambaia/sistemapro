@@ -20,3 +20,6 @@ c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug
 c:\users\eduardo\documents\visual studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_AP_Notas.resources
 C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_AP_Professores.resources
 C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\Sistema\Sistema\obj\Debug\Sistema.frm_Visu_Inscricao.resources
+C:\Users\Emanu\3D Objects\sistemapro\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Emanu\3D Objects\sistemapro\Sistema\obj\Debug\Sistema.exe
+C:\Users\Emanu\3D Objects\sistemapro\Sistema\obj\Debug\Sistema.pdb
