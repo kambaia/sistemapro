@@ -3,3 +3,8 @@ c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\BLL\bin\Debug\BLL
 c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\BLL\obj\Debug\BLL.dll
 c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\BLL\obj\Debug\BLL.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\BLL\bin\Debug\BLL.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\BLL\bin\Debug\BLL.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\BLL\obj\Debug\BLL.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\BLL\obj\Debug\BLL.pdb

@@ -3,3 +3,8 @@ c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\DAL\bin\Debug\DAL
 c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\DAL\obj\Debug\DAL.dll
 c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\DAL\obj\Debug\DAL.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\bin\Debug\DAL.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\bin\Debug\DAL.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\obj\Debug\DAL.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\DAL\obj\Debug\DAL.pdb

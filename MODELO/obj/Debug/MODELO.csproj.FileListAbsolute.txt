@@ -3,3 +3,8 @@ c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\MODELO\bin\Debug\
 c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
 c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\MODELO\obj\Debug\MODELO.dll
 c:\Users\EDUARDO\documents\visual studio 2015\Projects\Sistema\MODELO\obj\Debug\MODELO.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\MODELO\bin\Debug\MODELO.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\MODELO\bin\Debug\MODELO.pdb
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\MODELO\obj\Debug\MODELO.csprojResolveAssemblyReference.cache
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\MODELO\obj\Debug\MODELO.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\MODELO\obj\Debug\MODELO.pdb

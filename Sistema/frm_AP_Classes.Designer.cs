@@ -28,8 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.txt_ID_Classe = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.txt_Classe = new System.Windows.Forms.TextBox();
             this.btn_Salvar = new System.Windows.Forms.Button();
@@ -39,27 +37,6 @@
             this.txt_Disciplina = new System.Windows.Forms.TextBox();
             this.btn_Add = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // txt_ID_Classe
-            // 
-            this.txt_ID_Classe.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.txt_ID_Classe.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_ID_Classe.Location = new System.Drawing.Point(112, 84);
-            this.txt_ID_Classe.Multiline = true;
-            this.txt_ID_Classe.Name = "txt_ID_Classe";
-            this.txt_ID_Classe.Size = new System.Drawing.Size(49, 26);
-            this.txt_ID_Classe.TabIndex = 0;
-            // 
-            // label1
-            // 
-            this.label1.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(23, 87);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(76, 18);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "ID Classe:";
             // 
             // label2
             // 
@@ -163,8 +140,6 @@
             this.Controls.Add(this.btn_Salvar);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txt_Classe);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.txt_ID_Classe);
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(342, 420);
             this.MinimumSize = new System.Drawing.Size(342, 420);
@@ -176,9 +151,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox txt_ID_Classe;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txt_Classe;
         private System.Windows.Forms.Button btn_Salvar;
