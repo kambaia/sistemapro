@@ -7,7 +7,7 @@ using MySql.Data.MySqlClient;
 
 namespace WindowsFormsApp1
 {
-    class Conexao
+    public class Conexao
     {
         //  string connString = 
         MySqlConnection  con = new MySqlConnection();

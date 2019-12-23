@@ -30,13 +30,13 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.btn_menuLogOut = new System.Windows.Forms.Button();
             this.btn_menuTes = new System.Windows.Forms.Button();
             this.btn_menuAPedag = new System.Windows.Forms.Button();
             this.btn_menuPrincipal = new System.Windows.Forms.Button();
             this.pb_Logo = new System.Windows.Forms.PictureBox();
             this.painel = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pb_Logo)).BeginInit();
             this.SuspendLayout();
@@ -56,6 +56,18 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(186, 568);
             this.panel1.TabIndex = 0;
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Transparent;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.Location = new System.Drawing.Point(140, 3);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(43, 43);
+            this.button1.TabIndex = 5;
+            this.button1.UseVisualStyleBackColor = false;
             // 
             // btn_menuLogOut
             // 
@@ -125,18 +137,6 @@
             this.painel.Size = new System.Drawing.Size(744, 494);
             this.painel.TabIndex = 1;
             // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.Transparent;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(140, 3);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(43, 43);
-            this.button1.TabIndex = 5;
-            this.button1.UseVisualStyleBackColor = false;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -147,6 +147,7 @@
             this.Controls.Add(this.panel1);
             this.MinimumSize = new System.Drawing.Size(960, 574);
             this.Name = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pb_Logo)).EndInit();
             this.ResumeLayout(false);

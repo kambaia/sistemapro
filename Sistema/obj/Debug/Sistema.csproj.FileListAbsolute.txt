@@ -48,3 +48,6 @@ C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\De
 C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.Tesouraria.resources
 C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\obj\Debug\Sistema.csproj.GenerateResource.Cache
 >>>>>>> b18b3ff715f5be7cd8ae990270f5a8faed33b13d
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\DAL.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\MySql.Data.dll
+C:\Users\EDUARDO\Documents\Visual Studio 2015\Projects\SistemaPro\Sistema\bin\Debug\DAL.pdb
